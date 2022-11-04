@@ -4,7 +4,7 @@ this addon adds newchunks to meteor client. i know meteor rejects already interg
 
 ![alt text](https://github.com/StaidChannel708/newchunks/blob/main/src/main/resources/assets/template/icon.png?raw=true)
 
-#how to build
+###how to build
 
 use ./gradlew build
 
