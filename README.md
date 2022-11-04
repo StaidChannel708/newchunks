@@ -1,8 +1,5 @@
 # newchunks addon for meteor client
 
-A template to allow easy usage of the Meteor Addon API.
+this addon adds newchunks to meteor client. i know meteor rejects already intergrated this module into meteor however that addon has lots of useless modules which slow down your game
 
-### How to use:  
-- Clone this project
-- Use this template to create new modules/commands
-- Run the mod with Meteor.
+![alt text](https://github.com/StaidChannel708/newchunks/src/main/resources/assets/template/icon.png?raw=true)
