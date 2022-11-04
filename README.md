@@ -1,4 +1,4 @@
-# Meteor Addon Template
+# newchunks addon for meteor client
 
 A template to allow easy usage of the Meteor Addon API.
 
