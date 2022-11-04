@@ -1,4 +1,8 @@
-# newchunks addon for meteor
-this is just a addon for meteor client which adds new chunks.
+# Meteor Addon Template
 
-there is already an addon which adds this called meteor rejects however it includes lots of useless features which lag out your game
+A template to allow easy usage of the Meteor Addon API.
+
+### How to use:  
+- Clone this project
+- Use this template to create new modules/commands
+- Run the mod with Meteor.
