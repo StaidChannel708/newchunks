@@ -1,1 +1,1 @@
-# newchunks
+# newchunks addon for meteor
